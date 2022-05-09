@@ -1,0 +1,9 @@
+/* <link rel="stylesheet" href="css/opmaak.css" type="text/css"> */
+body {
+  background-image: url("achtergrond.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+h1 {
+  color: yellow;
+}
