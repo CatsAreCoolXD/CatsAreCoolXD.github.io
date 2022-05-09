@@ -1,4 +1,7 @@
 /* <link rel="stylesheet" href="css/opmaak.css" type="text/css"> */
+
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
 body {
   background-image: url("achtergrond.png");
   background-repeat: repeat;
@@ -6,4 +9,37 @@ body {
 }
 h1 {
   color: yellow;
+  margin-top:50px;
+  font-size:350%;
+  text-align:center;
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.page {
+  font-family:Arial, Helvetica, sans-serif;
+}
+ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+ul li {
+  float: left;
+  margin-left:70px;
+  font-size:180%;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+@keyframes menuhover {
+
+}
+#eli {
+  margin-left:0px;
 }
