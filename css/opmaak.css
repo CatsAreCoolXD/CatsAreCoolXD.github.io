@@ -68,4 +68,10 @@ li:hover {
 .levels {
   text-align:center;
   padding:15px;
+  color:white;
+}
+.modules p {
+  text-align:center;
+  font-size:150%;
+  color: white;
 }
