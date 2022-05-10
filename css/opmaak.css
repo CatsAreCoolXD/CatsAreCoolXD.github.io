@@ -37,6 +37,11 @@ body {
   margin-left:70px;
   font-size:180%;
 }
+.nav {
+  position: absolute;
+  overflow: hidden;
+  margin-top:-65px;
+}
 li a {
   display: block;
   color: white;
