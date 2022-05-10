@@ -61,3 +61,11 @@ li:hover {
   animation-duration:0.5s;
   animation-fill-mode: forwards;
 }
+.levels a {
+  font-size:200%;
+  padding:20px;
+}
+.levels {
+  text-align:center;
+  padding:15px;
+}
