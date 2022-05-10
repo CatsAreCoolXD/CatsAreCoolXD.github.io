@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
 
 body {
-  background-image: url("achtergrond.png");
+  background-image: url("../foto/achtergrond.png");
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -104,4 +104,20 @@ li:hover {
 }
 .exlink {
   color:yellow;
+}
+.socialmedia a {
+  color:white;
+}
+.socialmedia {
+  margin-top: -50px;
+}
+.logolinks {
+  margin:0px;
+  padding:0px;
+}
+.logolinks img {
+  border: 3px solid black;
+  border-style:round;
+  width:100px;
+  height:100px;
 }
