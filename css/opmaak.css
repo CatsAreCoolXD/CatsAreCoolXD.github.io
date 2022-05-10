@@ -91,7 +91,13 @@ li:hover {
 .projectdownload {
   text-align:center;
   text-decoration:none;
-  font-size:150%;
+  font-size:110%;
   color:white;
   font-family:Arial, Helvetica;
+  display:inline-block;
+}
+.kop {
+  font-size:175%;
+  color:yellow;
+  text-align:center;
 }
