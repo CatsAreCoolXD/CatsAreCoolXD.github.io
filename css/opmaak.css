@@ -46,8 +46,18 @@ li a {
   font-family: 'Merriweather Sans', sans-serif;
 }
 @keyframes menuhover {
-
+  0% {
+    text-shadow:none;
+  }
+  100% {
+    text-shadow:4px 4px black;
+  }
 }
 #eli {
   margin-left:0px;
+}
+li:hover {
+  animation-name:menuhover;
+  animation-duration:0.5s;
+  animation-fill-mode: forwards;
 }
