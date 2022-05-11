@@ -35,7 +35,7 @@ mc4.onclick = function(){
   mt4.innerHTML = "4. Ruby-0"
 }
 mc5.onclick = function(){
-  mt1.innerHTML = "Nog niks ( ͡° ͜ʖ ͡°)"
+  mt1.innerHTML = "HTML-CSS-2"
   mt2.innerHTML = ""
   mt3.innerHTML = ""
   mt4.innerHTML = ""
