@@ -1,2 +1,2 @@
-def works():
-    print("test")
+def hello():
+    print("Hello World!")
