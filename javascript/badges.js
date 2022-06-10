@@ -36,7 +36,7 @@ mc4.onclick = function(){
 }
 mc5.onclick = function(){
   mt1.innerHTML = "HTML-CSS-2"
-  mt2.innerHTML = ""
+  mt2.innerHTML = "Python-3"
   mt3.innerHTML = ""
   mt4.innerHTML = ""
 }
