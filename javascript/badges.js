@@ -9,6 +9,7 @@ mc2 = document.getElementById("mc2")
 mc3 = document.getElementById("mc3")
 mc4 = document.getElementById("mc4")
 mc5 = document.getElementById("mc5")
+mc6 = document.getElementById("mc6")
 
 mc1.onclick = function(){
   mt1.innerHTML = "1. CoderClass-Omgeving-0"
@@ -37,6 +38,13 @@ mc4.onclick = function(){
 mc5.onclick = function(){
   mt1.innerHTML = "HTML-CSS-2"
   mt2.innerHTML = "Python-3"
+  mt3.innerHTML = "Datavisualisatie-in-Python-0"
+  mt4.innerHTML = "Computernetwerken-0(bijna)"
+}
+mc6.onclick = function(){
+  mt1.innerHTML = "Python-4(bijna)"
+  mt2.innerHTML = ""
   mt3.innerHTML = ""
   mt4.innerHTML = ""
+  mt5.innerHTML = ""
 }
