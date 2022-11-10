@@ -42,8 +42,8 @@ mc5.onclick = function(){
   mt4.innerHTML = "Computernetwerken-0(bijna)"
 }
 mc6.onclick = function(){
-  mt1.innerHTML = "Python-4(bijna)"
-  mt2.innerHTML = ""
+  mt1.innerHTML = "Python-4"
+  mt2.innerHTML = "Unity-0"
   mt3.innerHTML = ""
   mt4.innerHTML = ""
   mt5.innerHTML = ""

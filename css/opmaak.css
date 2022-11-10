@@ -79,6 +79,9 @@ li:hover {
   color: white;
   margin-top:0px;
 }
+.modules:hover {
+  cursor: pointer;
+}
 .projecten a {
   display: block;
   text-align: center;
