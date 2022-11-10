@@ -73,15 +73,16 @@ li:hover {
   padding:15px;
   color:white;
 }
+.levels:hover {
+  cursor: pointer;
+}
 .modules p {
   text-align:center;
   font-size:150%;
   color: white;
   margin-top:0px;
 }
-.modules:hover {
-  cursor: pointer;
-}
+
 .projecten a {
   display: block;
   text-align: center;
