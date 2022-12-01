@@ -128,3 +128,7 @@ li:hover {
 .test {
   color:black;
 }
+.link {
+  color: yellow;
+  text-decoration: underline;
+}

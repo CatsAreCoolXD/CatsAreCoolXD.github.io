@@ -39,12 +39,12 @@ mc5.onclick = function(){
   mt1.innerHTML = "HTML-CSS-2"
   mt2.innerHTML = "Python-3"
   mt3.innerHTML = "Datavisualisatie-in-Python-0"
-  mt4.innerHTML = "Computernetwerken-0(bijna)"
+  mt4.innerHTML = "Computernetwerken-0"
 }
 mc6.onclick = function(){
   mt1.innerHTML = "Python-4"
   mt2.innerHTML = "Unity-0"
-  mt3.innerHTML = ""
+  mt3.innerHTML = "Python-API-0"
   mt4.innerHTML = ""
   mt5.innerHTML = ""
 }
