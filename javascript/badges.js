@@ -46,5 +46,5 @@ mc6.onclick = function(){
   mt2.innerHTML = "Unity-0"
   mt3.innerHTML = "Python-API-0"
   mt4.innerHTML = "Automaten-0"
-  mt5.innerHTML = ""
+  mt5.innerHTML = "Javascript-voor-games-0"
 }
